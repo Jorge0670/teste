@@ -31,6 +31,23 @@ __negrito__
     - y
       - z
 
+
   ### Imagens e Links
 
-  [clique aqui](https://www.google.com/imgres?q=goku%20negro&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1171756169660796&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fpablocafeart%2Fposts%2Fo-verdadeiro-black-gokugoku-blackgoku-blackcultureafro-afroculture-negro-afrodes%2F1171758689660544%2F&docid=pbZpxctyxsXAxM&tbnid=D0l8bNofmW4xVM&vet=12ahUKEwjryoKet5SXAxUOq5UCHeFiNtcQnPAOegQIORAA..i&w=1280&h=1280&hcb=2&ved=2ahUKEwjryoKet5SXAxUOq5UCHeFiNtcQnPAOegQIORAA)
+  [clique aqui]
+   (<img width="447" alt="images (5)" src="https://github.com/user-attachments/assets/61a466ca-e9b3-4473-a429-cb1b5352a23a" />)
+
+  ### Tabela
+  |xxx|yyyy|zzzz|
+  |:----|:----:|----:|
+  |x|y|z|
+
+### Citação
+
+>xxxxxxx
+
+### Bloco de código
+```
+if nota > 8:
+print ("aprovado")
+```
